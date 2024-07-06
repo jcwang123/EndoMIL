@@ -2,14 +2,10 @@
 **Foundation Models Assesses Gastric Cancer Risk from Endoscopic Findings**
 
 EndoMIL aims to assess GC risk via endoscopic results of a patient according to the Kyoto classification. 
-
-The workfolow of EndoMIL is illustrated as follows:
 ![image](https://github.com/jcwang123/EndoMIL/blob/main/workflow.png)
 
 
 We apply Multi-instance Learning to define endoscopic results, and leverage the power of multiple foundation models to EndoMIL.
-
-The architecture of EndoMIL is illustrated as follows:
 ![image](https://github.com/jcwang123/EndoMIL/blob/main/model.png)
 
 Results demonstrate the outsanding performance of EndoMIL, verify its ability in clinical settings. 
