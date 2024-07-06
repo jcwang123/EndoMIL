@@ -1,5 +1,5 @@
 # EndoMIL
-Title: Foundation Models Assesses Gastric Cancer Risk from Endoscopic Findings
+**Foundation Models Assesses Gastric Cancer Risk from Endoscopic Findings**
 
 EndoMIL aims to assess GC risk via endoscopic results of a patient according to the Kyoto classification. 
 
