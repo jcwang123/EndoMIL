@@ -1,7 +1,9 @@
 # EndoMIL
 Foundation Models Assesses Gastric Cancer Risk from Endoscopic Findings
 
-EndoMIL aims to assess GC risk via endoscopic results of a patient according to the Kyoto classification. The workfolow of EndoMIL is illustrated as follows:
+EndoMIL aims to assess GC risk via endoscopic results of a patient according to the Kyoto classification. 
+
+The workfolow of EndoMIL is illustrated as follows:
 ![image](https://github.com/jcwang123/EndoMIL/blob/main/workflow.png)
 
 
